@@ -45,7 +45,7 @@
 ---
 
 <td>
-<img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dmitry313233&layout=compact&theme=vision-friendly-dark" />
+<img height="295px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dmitry313233&layout=compact&theme=vision-friendly-dark" />
 </td>
 
 
