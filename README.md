@@ -4,10 +4,12 @@
 ---
 
 
+        
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+    
 
 
 
@@ -20,7 +22,7 @@
 
   <div id="badges">
     <a href="https://web.whatsapp.com/" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-green?logo=linkedin&logoColor=white&style=for-the-badge" width="90" height="40" alt="linkedin" />
+      <img src="https://img.shields.io/badge/WhatsApp-green?logo=linkedin&logoColor=white&style=for-the-badge" width="90" height="40" alt="linkedin"/>
     </a>
     <a href="https://t.me/Dima_Litvinenko" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
@@ -41,4 +43,9 @@
 </div>
 
 ---
+
+<td>
+<img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dmitry313233&layout=compact&theme=vision-friendly-dark" />
+</td>
+
 
