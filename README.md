@@ -20,7 +20,14 @@
 
 ### 🤝 Социальные сети:
 
-
+  <div id="badges">
+    <a href="https://web.whatsapp.com/" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-green?logo=linkedin&logoColor=white&style=for-the-badge" width="90" height="40" alt="linkedin"/>
+    </a>
+    <a href="https://t.me/Dima_Litvinenko" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+  </div>
 ---
 
 ### 💻 Технологии:
